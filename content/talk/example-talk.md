@@ -25,8 +25,7 @@ selected = false
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter your project's filename without extension.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-#   Otherwise, set `projects = []`.
+#   set `projects = []`.
 projects = ["deep-learning"]
 
 # Tags (optional).
